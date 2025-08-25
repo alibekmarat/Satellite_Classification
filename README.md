@@ -96,8 +96,3 @@ This project focuses on building and comparing machine learning and deep learnin
 - **Alibek Marat** — Code development, Colab integration  
 - **Yuliya Martsinkus** — Documentation and reporting  
 - University of Bologna, Digital Transformation Management Program
-
-📜 License
-
-Open-source project. License: MIT (or add your license of choice)
-
